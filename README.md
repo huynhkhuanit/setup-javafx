@@ -37,6 +37,10 @@ Hoặc bạn cũng có thể sử dụng cách (xem hình ảnh phía dưới):
 
 📌 **Lưu ý:** Nếu JavaFX SDK đặt ở nơi khác, hãy thay đổi đường dẫn cho đúng.
 
+📌 **LƯU Ý QUAN TRỌNG ⚠️:** Nếu bạn nào cài đặt **Java JDK** ở **Oracle** thuộc phiên bản **`Java JDK 23.0.1`** mà cài đặt **JavaFX ở phiên bản 23.0.2** sẽ gây ra xung đột phiên bản. Nên đồng bộ của 2 JavaFX và Java JDK 👉 Các bạn tải lại **liên kết 23.0.1** cho mình nha
+
+📌 **CẬP NHẬT LIÊN KẾT:** Các bạn tải JavaFX 23.0.1 ở đây 👉 [JavaFX 23.0.1](https://drive.google.com/file/d/1YwK6g4ej_O5FFtVD4UIwIBLBLyEIjS7q/view?usp=drive_link)
+
 ---
 
 ## **3️⃣ Cài Đặt VS Code & Extensions JavaFX**
