@@ -41,6 +41,36 @@ Hoặc bạn cũng có thể sử dụng cách (xem hình ảnh phía dưới):
 
 📌 **CẬP NHẬT LIÊN KẾT:** Các bạn tải JavaFX 23.0.1 ở đây 👉 [JavaFX 23.0.1](https://drive.google.com/file/d/1YwK6g4ej_O5FFtVD4UIwIBLBLyEIjS7q/view?usp=drive_link)
 
+📌 **SETUP BIẾN MÔI TRƯỜNG:**
+
+- Các bạn setup biến môi trường cho mình với `JAVA_HOME` như sau:
+
+- Vào `Edit Environment System Variables` 👉 Bật Windows lên tìm kiếm.
+
+![Hình ảnh 4](./assets/img/image-4.png)
+
+- Chọn > `New`.
+
+![Hình ảnh 5](./assets/img/image-5.png)
+
+- Tạo biến `JAVA_HOME` như hình.
+
+![Hình ảnh 6](./assets/img/image-6.png)
+
+- Vào CMD gõ `echo %JAVA_HOME%`, nếu như hình thì thành công bạn nhé!
+
+![Hình ảnh 7](./assets/img/image-7.png)
+
+- Tiếp thục vào `Edit Environment System Variables` 👉 Chọn **Path**.
+
+![Hình ảnh 8](./assets/img/image-8.png)
+
+- Chọn vào **NEW** 👉 Thêm đường dẫn như hình (viết chính xác nhé) vào **PATH**. Sau đó OK rồi OK thoát ra bình thường thôi nhé!
+
+![Hình ảnh 9](./assets/img/image-9.png)
+
+📌 **Với những bước trên bạn đã có thể chạy được JavaFX không lỗi nhé! Cám ơn các bạn vì đã tìm ra lỗi cài đặt này!**
+
 ---
 
 ## **3️⃣ Cài Đặt VS Code & Extensions JavaFX**
